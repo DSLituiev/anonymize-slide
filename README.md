@@ -27,7 +27,10 @@ Delete the label from all NDPI files in the current directory:
 Requirements
 ------------
 
- * Python 2.6 or 2.7
+This fork focuses on Python3.4+:
+
+ * Python 3.4+        (tested for aperio SVS format)
+ * Python 2.6 or 2.7  (not fully tested)
 
 License
 -------
